@@ -1,0 +1,16 @@
+* body {
+background-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+font: white;
+}
+
+.dark-mode {
+background-color: plum;
+color:rgb(255, 255, 255);
+}
+
+.section h1, p {
+display: flex;
+align-items: center;
+justify-content: center;
+}
